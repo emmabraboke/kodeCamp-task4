@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#land{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/01/header-bg.jpg) !important;
+    background-size: cover;
+    height: auto;
+    background-position: 50%;
+    padding-top: 100px !important;
+    padding-bottom: 500px !important;
+}
+
+/* #about-img1{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/01/image-10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+
+#about-img{
+    /* background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/01/download.png); */
+    /* background-size: 60px 60px; */
+    /* background-repeat: no-repeat; */
+    height: 60px;
+    width: 60px;
+}
+
+#contact{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/01/section-bg-6.jpg);
+    background-size: cover;
+    background-position: 50%;
+}
+
+#form input{
+    background-color: rgb(209, 207, 207);
+    border: none;
+    color: black;
+    font-weight: 600;
+}
+
+ #about{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/01/header-bg-2-2.jpg);
+    background-position: 50%;
+} 
+
+
+#service{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/01/header-bg-3-2.jpg);
+    background-size: cover;
+    background-position: 50%;
+}
+
+#service1{
+    background-image: url();
+    background-size: cover;
+    background-position: 50%;
+}
